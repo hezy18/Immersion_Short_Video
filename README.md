@@ -2,7 +2,7 @@
 
 These are the codes and data for the paper:
 
-***Zhiyu He, Shaorun Zhang, Peijie Sun, Jiayu Li, Xiaohui Xie, Min Zhang and Yiqun Liu. Understanding User Immersion in Online Short Video Interaction. 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023). ***
+**Zhiyu He, Shaorun Zhang, Peijie Sun, Jiayu Li, Xiaohui Xie, Min Zhang and Yiqun Liu. Understanding User Immersion in Online Short Video Interaction. 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023). **
 
 ## Questionnaires
 
