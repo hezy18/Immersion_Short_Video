@@ -53,7 +53,7 @@ Path = "./data/video_features/video_features.csv", "./data/video_features/video_
 The codes of video feature extraction, EEG features extraction, and immersion prediction task.
 
 # Reference
-TODO
+Zhiyu He, Shaorun Zhang, Peijie Sun, Jiayu Li, Xiaohui Xie, Min Zhang, and Yiqun Liu. 2023. Understanding User Immersion in Online Short Video Interaction. In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM '23). Association for Computing Machinery, New York, NY, USA, 731–740. https://doi.org/10.1145/3583780.3615099
 
 If you have any problems with this dataset, please contact Zhiyu He at hezhiyu0302 AT 163.com 
 
