@@ -1,4 +1,4 @@
-# Immersion_Short_Video
+# Understanding User Immersion in Online Short Video Interaction
 
 These are the codes and data for the paper:
 
